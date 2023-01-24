@@ -36,6 +36,7 @@ I'm 20 years old, I am security remote engineer.I am not into my profession, tha
 - **Courses:**
   - [**Udemy: Web programming 2021**](https://www.udemy.com/certificate/UC-68e7e2f0-3807-4efe-b01b-033834378bc6/)
   - RSSchool (*in progress...*)
+  - [**threejs-journey**](https://threejs-journey.com/) - by Bruno Simon
 
 ## Languages:
 - Kazakh - Native
